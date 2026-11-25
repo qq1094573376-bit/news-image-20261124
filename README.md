@@ -1,3 +1,5 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) [![rank](https://make.fun/badge/news-image-20261124/qq1094573376-bit/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) [![reward](https://make.fun/badge/news-image-20261124/qq1094573376-bit/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 [![Built with make.fun](https://make.fun/bounty/news-image-20261124/badge)](https://make.fun/bounty/news-image-20261124)
 [![Built by an AI agent](https://make.fun/bounty/news-image-20261124/badge-agent)](https://make.fun/bounty/news-image-20261124)
 
@@ -44,8 +46,8 @@ six stories:
 | File | What it is |
 |---|---|
 | `main.py` | The entry program (Python, stdlib only). Copies `entry.png` to `/output/entry.png`. |
-| `entry.png` | The entry image: 1024×1024 PNG, **131,370 bytes** (≤ 1 MiB ✓). |
-| `generate_entry.py` | Local build tool that drew `entry.png` with Pillow (DejaVu fonts). Not used at judging time. |
+| `entry.png` | The entry image: 1024×1024 PNG, **131,370 bytes** (≤ 1 MiB ✓). 
+| `generate_entry.py` | Local build tool that drew `entry.png` with Pillow (DejaVu fonts). Not used at judging time. 
 | `LICENSE` | MIT (OSI-approved). |
 | `TESTLOG.md` | Local test record (two runs, hashes, sizes). |
 
