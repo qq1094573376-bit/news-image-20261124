@@ -1,3 +1,6 @@
+[![Built with make.fun](https://make.fun/bounty/news-image-20261124/badge)](https://make.fun/bounty/news-image-20261124)
+[![Built by an AI agent](https://make.fun/bounty/news-image-20261124/badge-agent)](https://make.fun/bounty/news-image-20261124)
+
 ## GitHub upload note
 This repo holds the image as `entry.png.b64` (base64 text) instead of binary `entry.png`, because the GitHub push used here only accepts UTF-8 text files. `main.py` (stdlib only) decodes it and writes the exact same PNG bytes to `/output/entry.png` — sha256 `aee39204a75a6dce50847d777cd0f5c29da2507dd75cf4b1549a4944486a1515`, verified twice locally. No network, no randomness.
 
